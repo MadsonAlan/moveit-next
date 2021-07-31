@@ -1,0 +1,17 @@
+[
+    {
+        "type":"body",
+        "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima",
+        "amount": 80
+    },
+    {
+        "type":"body",
+        "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos por braço",
+        "amount": 60
+    },
+    {
+        "type":"body",
+        "description": "Puxe o pescoço com a ajuda da mão para a direita e para a esquerda, permanecendo na posição original",
+        "amount": 70
+    }
+]
